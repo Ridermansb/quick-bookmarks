@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "クイックブックマーク"
+    },
+    "root": {
+        "message": "のルート"
+    },
+    "addButtonTitle": {
+        "message": "メニューでこのフォルダを設定するときにクリックします"
+    },
+    "folders": {
+        "message": "フォルダ"
+    },
+    "recents": {
+        "message": "最近の"
+    },
+    "apps": {
+        "message": "アプリケーション"
+    },
+    "addButtonAlt": {
+        "message": "メニューに追加"
+    },
+    "searchFor": {
+        "message": "検索する"
+    },
+    "dump": {
+        "message": "ダンプ"
+    }
+}

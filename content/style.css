@@ -1,0 +1,198 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700);
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    color: #968F74;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #FBB412;
+    padding: 15px 20px;
+}
+h2 {
+    font-size: 21px;
+    font-weight: bold;
+    color: #FBB412;
+}
+
+a {
+    color: #807341;
+    text-decoration: none;
+    
+}
+a:hover {
+    color: #403920;
+    border-bottom: 1px ridge #4C4326;
+}
+
+/* Menu */
+.menu-sprites {  background: url(/images/menu-sprite.png) no-repeat top left; } 
+.menu-sprites.add{ background-position: 0 0; width: 32px; height: 32px; } 
+.menu-sprites.apps{ background-position: 0 -96px; width: 32px; height: 32px; } 
+.menu-sprites.bin{ background-position: 0 -192px; width: 64px; height: 64px; } 
+.menu-sprites.folder{ background-position: 0 -320px; width: 64px; height: 64px; } 
+.menu-sprites.folders{ background-position: 0 -448px; width: 32px; height: 32px; } 
+.menu-sprites.link{ background-position: 0 -544px; width: 64px; height: 64px; } 
+.menu-sprites.remove{ background-position: 0 -672px; width: 32px; height: 32px; } 
+ 
+#top {
+    position: relative;
+    background-color: #F6F4E4;
+    padding: 6px 20px;
+    font-size: 12px;
+    clear: both;
+    box-shadow:1px 1px 3px #E5E0AF;
+    overflow:hidden;
+    z-index: 998;
+}
+#menu-itens {
+    margin-right: 80px;
+    margin-bottom: 15px;
+    float:right;
+}
+#menu-itens li {
+    float:right;
+}
+#menu-itens li a:hover {
+    background-color: #F6F5E9;
+    border-color: #E6E3C4;
+}
+#menu-itens li a {
+    font-size: 18px;
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+    position: relative;
+    padding: 6px 20px;
+    display: block;
+    background-color: #FBFAEE;
+    border: 1px solid transparent;
+    border-top: none;
+}
+#menu-itens li a.active {
+    background-color: #F6F4E4;
+    border-color: #E5E0AF;
+    
+    z-index: 999;
+}
+
+#menu-path {
+    color: #BCAF45;
+}
+#menu-path li {
+    float:left;
+    margin-right: 5px;
+}
+#extInfo {
+    float: right;
+    color: #B4AF99;
+    font-size: 10px;
+}
+
+
+/* Buttons */
+button {
+    box-shadow: 1px 2px 8px #E5E0AF;
+}
+button.fixed {
+    position: fixed;
+    height: 38px;
+    width: 43px;
+    z-index: 999;
+}
+button:active {
+    border-style: ridge;
+    box-shadow: 1px 1px 3px #E5E0AF;
+}
+#add-button {
+    display: none;
+    position: absolute;
+    right: 20px;
+    top: 70px;
+}
+
+/* Container */
+#page-container {
+    clear: both;
+    padding: 0 50px;
+    overflow: visible;
+}
+#page-container h2 {
+    margin-top: 15px;
+    clear: both;
+}
+#page-container h2 a {
+    color: #FBB412;
+    text-decoration: none;
+}
+#page-container h2 a:hover  {
+    border-bottom: 0;
+}
+#page-container h2:first-child {
+    margin-top: 0;
+}
+
+#bin {
+    position: fixed;
+    bottom: -10px;
+    right: -10px;
+    margin: 30px;
+    background-color: #F6F4E4;
+    border: 3px dotted #E5E0AF;
+    opacity: 0.5;
+    border-radius: 3px;
+    padding: 30px 50px;
+    text-align: center;
+    display: none;
+    z-index: 995;
+}
+#bin > img {
+    vertical-align: middle;
+}
+#bin > span {
+    display: block;
+}
+
+/* Generical class*/
+.icons {
+    overflow: visible;
+}
+.icons li { 
+    width: 130px;
+    height: 130px;
+    overflow: visible;
+    float: left;
+    text-align: center;
+    padding: 5px;
+    overflow: hidden;   
+    z-index: 2;
+}
+.icons li.ui-draggable-dragging {
+    z-index: 999;
+}
+.icons li > a, .icon, button { 
+    border: 1px solid transparent;
+    display: block;
+    border-radius: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+.icons li:hover  {
+    overflow: visible;
+    z-index: 3;
+}
+
+.icons li > a:hover, .icon:hover, button:hover, .icon.fixed { 
+    border-color: #E5E0AF;
+    background-color: #F6F4E4;
+    outline:0;
+    
+}
+.icons li > a > span, .icon > span { 
+    display:block;
+}
+button {
+    background-color: #FBFAEE;
+}

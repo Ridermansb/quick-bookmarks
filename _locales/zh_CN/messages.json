@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "快速书签"
+    },
+    "root": {
+        "message": "根"
+    },
+    "addButtonTitle": {
+        "message": "点击设置菜单中的这个文件夹"
+    },
+    "folders": {
+        "message": "文件夹"
+    },
+    "recents": {
+        "message": "最近"
+    },
+    "apps": {
+        "message": "应用"
+    },
+    "addButtonAlt": {
+        "message": "添加到菜单"
+    },
+    "searchFor": {
+        "message": "搜索"
+    },
+    "dump": {
+        "message": "转储"
+    }
+}

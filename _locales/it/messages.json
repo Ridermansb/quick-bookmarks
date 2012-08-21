@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "Segnalibri Veloce"
+    },
+    "root": {
+        "message": "Radice"
+    },
+    "addButtonTitle": {
+        "message": "Clicca per impostare questa cartella nel menu."
+    },
+    "folders": {
+        "message": "Cartelle"
+    },
+	"recents": {
+        "message": "Recenti"
+    },
+    "apps": {
+        "message": "Applicazioni"
+    },
+    "addButtonAlt": {
+        "message": "Aggiungi al menu"
+    },
+    "searchFor": {
+        "message": "Cerca"
+    },
+    "dump": {
+        "message": "Scaricare"
+    }
+}

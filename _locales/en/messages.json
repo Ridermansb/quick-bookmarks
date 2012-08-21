@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "Quick Bookmarks"
+    },
+    "root": {
+        "message": "Root"
+    },
+    "addButtonTitle": {
+        "message": "Click to set this folder in the menu."
+    },
+    "folders": {
+        "message": "Folders"
+    },
+	"recents": {
+        "message": "Recents"
+    },
+    "apps": {
+        "message": "Applications"
+    },
+    "addButtonAlt": {
+        "message": "Add to Menu"
+    },
+    "searchFor": {
+        "message": "Search for"
+    },
+    "dump": {
+        "message": "Dump"
+    }
+}

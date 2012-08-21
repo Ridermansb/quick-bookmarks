@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "빠른 북마크"
+    },
+    "root": {
+        "message": "뿌리"
+    },
+    "addButtonTitle": {
+        "message": "메뉴에서이 폴더를 설정하려면 클릭하십시오"
+    },
+    "folders": {
+        "message": "폴더"
+    },
+    "recents": {
+        "message": "최근"
+    },
+    "apps": {
+        "message": "응용"
+    },
+    "addButtonAlt": {
+        "message": "메뉴에 추가"
+    },
+    "searchFor": {
+        "message": "검색"
+    },
+    "dump": {
+        "message": "덤프"
+    }
+}

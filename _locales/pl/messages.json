@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "szybkie Zakładki"
+    },
+    "root": {
+        "message": "korzeń"
+    },
+    "addButtonTitle": {
+        "message": "Kliknij, aby ustawić ten folder w menu"
+    },
+    "folders": {
+        "message": "foldery"
+    },
+    "recents": {
+        "message": "Najnowsze"
+    },
+    "apps": {
+        "message": "aplikacje"
+    },
+    "addButtonAlt": {
+        "message": "Dodaj do Menu"
+    },
+    "searchFor": {
+        "message": "Szukaj"
+    },
+    "dump": {
+        "message": "wysypisko"
+    }
+}

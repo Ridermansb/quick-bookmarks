@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "cepat Bookmark"
+    },
+    "root": {
+        "message": "akar"
+    },
+    "addButtonTitle": {
+        "message": "Klik untuk mengatur folder ini di menu"
+    },
+    "folders": {
+        "message": "folder"
+    },
+    "recents": {
+        "message": "terakhir"
+    },
+    "apps": {
+        "message": "aplikasi"
+    },
+    "addButtonAlt": {
+        "message": "Tambahkan ke Menu"
+    },
+    "searchFor": {
+        "message": "Pencarian untuk"
+    },
+    "dump": {
+        "message": "membuang"
+    }
+}

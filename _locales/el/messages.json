@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "Γρήγορη Σελιδοδείκτες"
+    },
+    "root": {
+        "message": "ρίζα"
+    },
+    "addButtonTitle": {
+        "message": "Κάντε κλικ για να ρυθμίσετε αυτό το φάκελο στο μενού"
+    },
+    "folders": {
+        "message": "φάκελοι"
+    },
+    "recents": {
+        "message": "πρόσφατες"
+    },
+    "apps": {
+        "message": "εφαρμογές"
+    },
+    "addButtonAlt": {
+        "message": "Προσθήκη στο Μενού"
+    },
+    "searchFor": {
+        "message": "Αναζήτηση"
+    },
+    "dump": {
+        "message": "Dump"
+    }
+}

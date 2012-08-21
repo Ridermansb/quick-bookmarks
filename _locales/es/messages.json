@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "Marcadores rápida"
+    },
+    "root": {
+        "message": "Raíz"
+    },
+    "addButtonTitle": {
+        "message": "Haga clic para configurar esta carpeta en el menú."
+    },
+    "folders": {
+        "message": "Carpetas"
+    },
+    "recents": {
+        "message": "Recientes"
+    },
+    "apps": {
+        "message": "Aplicaciones"
+    },
+    "addButtonAlt": {
+        "message": "Añadir al menú"
+    },
+    "searchFor": {
+        "message": "Buscar"
+    },
+    "dump": {
+        "message": "vertedero"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "Schnell Bookmarks"
+    },
+    "root": {
+        "message": "Wurzel"
+    },
+    "addButtonTitle": {
+        "message": "Klicken Sie auf diesen Ordner im Menü eingestellt."
+    },
+    "folders": {
+        "message": "Folders"
+    },
+	"recents": {
+        "message": "Recents"
+    },
+    "apps": {
+        "message": "Anwendungen"
+    },
+    "addButtonAlt": {
+        "message": "Fügen Sie zum Menü"
+    },
+    "searchFor": {
+        "message": "Suchen nach"
+    },
+    "dump": {
+        "message": "Dump"
+    }
+}

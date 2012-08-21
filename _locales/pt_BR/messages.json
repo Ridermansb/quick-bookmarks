@@ -1,0 +1,29 @@
+{
+    "extensionName": {
+        "message": "Bookmarks Rápidos"
+    },
+    "root": {
+        "message": "Raiz"
+    },
+    "addButtonTitle": {
+        "message": "Clique para fixar esta pasta no menu"
+    },
+    "folders": {
+        "message": "Pastas"
+    },
+    "recents": {
+        "message": "Recentes"
+    },
+    "apps": {
+        "message": "Aplicações"
+    },
+    "addButtonAlt": {
+        "message": "Adicionar ao menu"
+    },
+    "searchFor": {
+        "message": "Procura por"
+    },
+    "dump": {
+        "message": "Lixeira"
+    }
+}

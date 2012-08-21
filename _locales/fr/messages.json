@@ -1,0 +1,29 @@
+﻿{
+    "extensionName": {
+        "message": "Favoris Rapide"
+    },
+    "root": {
+        "message": "Racine"
+    },
+    "addButtonTitle": {
+        "message": "Cliquez ici pour définir ce dossier dans le menu."
+    },
+    "folders": {
+        "message": "Dossiers"
+    },
+	"recents": {
+        "message": "Récents"
+    },
+    "apps": {
+        "message": "Applications"
+    },
+    "addButtonAlt": {
+        "message": "Ajouter au menu"
+    },
+    "searchFor": {
+        "message": "Recherche pour"
+    },
+    "dump": {
+        "message": "Dépotoir"
+    }
+}
